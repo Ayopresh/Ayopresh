@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on More knowledge and Data Analysis Projects
 - 📫 How to reach me Email: awhyopresh@gmail.com
-- 😄 Pronouns: I, He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Walmart's Data Saves Lives During Hurricanes
 
 <!---
